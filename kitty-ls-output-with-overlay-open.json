@@ -1,0 +1,195 @@
+[
+  {
+    "background_opacity": 1.0,
+    "id": 1,
+    "is_active": true,
+    "is_focused": true,
+    "last_focused": true,
+    "platform_window_id": 282,
+    "tabs": [
+      {
+        "active_window_history": [
+          5,
+          2
+        ],
+        "enabled_layouts": [
+          "fat:bias=75;full_size=1;mirrored=false"
+        ],
+        "groups": [
+          {
+            "id": 1,
+            "windows": [
+              1,
+              5
+            ]
+          },
+          {
+            "id": 2,
+            "windows": [
+              2
+            ]
+          }
+        ],
+        "id": 1,
+        "is_active": true,
+        "is_focused": true,
+        "layout": "fat",
+        "layout_opts": {
+          "bias": 75,
+          "full_size": 1,
+          "mirrored": false
+        },
+        "layout_state": {
+          "biased_map": {},
+          "main_bias": [
+            0.75,
+            0.25
+          ],
+          "num_full_size_windows": 1
+        },
+        "title": "kitty @ ls",
+        "windows": [
+          {
+            "at_prompt": false,
+            "cmdline": [
+              "/bin/zsh"
+            ],
+            "columns": 98,
+            "created_at": 1728668864420155000,
+            "cwd": "/Users/bsimm",
+            "env": {
+              "KITTY_WINDOW_ID": "1",
+              "PWD": "/Users/bsimm"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "/Users/bsimm/.asdf/installs/ruby/2.5.9/bin/ruby",
+                  "bin/rails",
+                  "console"
+                ],
+                "cwd": "/Users/bsimm/workspace/clinicpass/src/clinicpass",
+                "pid": 25880
+              }
+            ],
+            "id": 1,
+            "is_active": false,
+            "is_focused": false,
+            "is_self": false,
+            "last_cmd_exit_status": 0,
+            "last_reported_cmdline": "rc",
+            "lines": 67,
+            "pid": 6933,
+            "title": "rc",
+            "user_vars": {}
+          },
+          {
+            "at_prompt": false,
+            "cmdline": [
+              "/bin/zsh"
+            ],
+            "columns": 98,
+            "created_at": 1728668878539407000,
+            "cwd": "/Users/bsimm",
+            "env": {
+              "KITTY_WINDOW_ID": "2",
+              "PWD": "/Users/bsimm/workspace/clinicpass/src/clinicpass"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "/Users/bsimm/.asdf/installs/ruby/2.5.9/bin/ruby",
+                  "bin/rails",
+                  "s"
+                ],
+                "cwd": "/Users/bsimm/workspace/clinicpass/src/clinicpass",
+                "pid": 7444
+              },
+              {
+                "cmdline": [
+                  "resque-scheduler-4.4.0[development]: Schedules Loaded",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "cwd": "/Users/bsimm/workspace/clinicpass/src/clinicpass",
+                "pid": 7443
+              },
+              {
+                "cmdline": [
+                  "resque-2.0.0: Waiting for auto_cancel,low,mailers,polling,rep_notify,rep_violations,restaurant_removal,sample_adjustment,subscription_expiration,toggle_badge_required,toggle_covid_required,toggle_virtual,user_status_update",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "cwd": "/Users/bsimm/workspace/clinicpass/src/clinicpass",
+                "pid": 7442
+              },
+              {
+                "cmdline": [
+                  "foreman: main",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                "cwd": "/Users/bsimm/workspace/clinicpass/src/clinicpass",
+                "pid": 7334
+              }
+            ],
+            "id": 2,
+            "is_active": false,
+            "is_focused": false,
+            "is_self": false,
+            "last_cmd_exit_status": 0,
+            "last_reported_cmdline": "OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES foreman start -f ProcfileDev",
+            "lines": 23,
+            "pid": 7228,
+            "title": "OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES foreman start -f ProcfileDev",
+            "user_vars": {}
+          },
+          {
+            "at_prompt": false,
+            "cmdline": [
+              "/bin/zsh"
+            ],
+            "columns": 98,
+            "created_at": 1728677381273679000,
+            "cwd": "/Users/bsimm/workspace/clinicpass/src/clinicpass",
+            "env": {
+              "KITTY_WINDOW_ID": "5",
+              "PWD": "/Users/bsimm"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "kitten",
+                  "@",
+                  "ls"
+                ],
+                "cwd": "/Users/bsimm",
+                "pid": 30109
+              }
+            ],
+            "id": 5,
+            "is_active": true,
+            "is_focused": true,
+            "is_self": true,
+            "last_cmd_exit_status": 0,
+            "last_reported_cmdline": "kitty @ ls",
+            "lines": 67,
+            "pid": 30025,
+            "title": "kitty @ ls",
+            "user_vars": {}
+          }
+        ]
+      }
+    ],
+    "wm_class": "kitty",
+    "wm_name": "kitty"
+  }
+]
